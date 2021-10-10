@@ -7,9 +7,9 @@
 ```javascript
 const skills = {
   languages: [Javascript, Typescript, HTML, CSS, Python, SQL],
-  frontend: [React, Redux, Next.js, Styled-components, SASS, Tailwind],
-  backend: [Node.js, PostgreSQL, MongoDB, GraphQL],
-  architecture: [Docker, AWS basics]
+  frontend: [React, Redux, Next, StyledComponents, SASS, Tailwind],
+  backend: [Node, PostgreSQL, MongoDB, GraphQL],
+  architecture: [Docker, AWS]
 }
 ```
 Things I Like:
