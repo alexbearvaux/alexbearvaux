@@ -12,7 +12,7 @@ const skills = {
   architecture: [Docker, AWS]
 }
 ```
-Things I Like:
+## Things I like
 
   ⚽  Football (soccer)
   
